@@ -1,0 +1,14 @@
+{
+  "name": "Vestby Tannlegekontor",
+  "openingHours": [
+    { "day": "Monday", "hours": "09:00-17:00" },
+    { "day": "Tuesday", "hours": "09:00-17:00" },
+    { "day": "Wednesday", "hours": "09:00-17:00" },
+    { "day": "Thursday", "hours": "09:00-17:00" },
+    { "day": "Friday", "hours": "09:00-17:00" }
+  ],
+  "services": [
+    { "name": "Consultation", "price": 500, "duration": 45 },
+    { "name": "Teeth Cleaning", "price": 800, "duration": 60 }
+  ]
+}
